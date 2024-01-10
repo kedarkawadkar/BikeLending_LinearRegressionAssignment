@@ -1,4 +1,32 @@
 # Project Name
-
 BIKE SHARING PREDICTION WITH MULTIPLE LINEAR REGRESSION
 
+
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+
+
+
+## General Information
+- A US bike-sharing provider BoomBikes wants to understand the factors on which the demand for these shared bikes depends
+- Which variables are significant in predicting the demand for shared bikes
+- How well those variables describe the bike demands
+
+## Technologies Used
+- statsmodel 
+- sci kit learn
+- pandas
+- matplotlib
+
+## Conclusions
+- The three main variables on which the demand of the shared bike depends based on the data are
+- Temperature : This variable is positively correlating with the predicting variable.
+- Humidity : This variable is negatively correlating with the demand of shared bike.
+- Year :  This variable is positively correlating with the demand for shared bike. 
+
+
+## Contact
+Created by [@kedarkawadkar] - feel free to contact me!
